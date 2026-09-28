@@ -1,7 +1,8 @@
+<div align="center">
 
 <br><br>
 
-<img src="./pfp.jpg" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture"/>
+<img src="pfp.jpg" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture"/>
 
 # Twilight
 
