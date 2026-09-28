@@ -16,12 +16,3 @@
 
 </div>
 
----
-
-## `> whoami`
-
-```txt
-Name      : Twilight
-Focus     : Software Development
-Interests : Automation • Games • Backend • Tools
-Status    : Building...
