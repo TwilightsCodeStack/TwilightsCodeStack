@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="./banner.jpg" width="100%" alt="Counter-Strike Banner"/>
 
 <br><br>
 
